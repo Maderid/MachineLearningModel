@@ -1,1 +1,3 @@
-# MachineLearningModel
+# Machine Learning Model
+
+Developed a comprehensive machine learning system to classify diabetes status (Non-diabetic, Prediabetic, Diabetic) using biomedical data. Cleaned and preprocessed a real-world patient dataset, handled class imbalance with SMOTE oversampling, and engineered features including gender and biochemical markers. Trained a Random Forest model with stratified cross-validation, achieving an average F1 macro score of 0.98. Evaluated model performance using accuracy, precision, recall, F1-score, ROC curves, and AUC for all classes. Visualized results with confusion matrices and multiclass ROC plots. Automated the workflow with Python, leveraging pandas, scikit-learn, imbalanced-learn, and matplotlib.
